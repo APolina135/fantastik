@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   background-color:#8B008B;
+   padding: 5px;
+   border-radius:10px ;
+   color: white;
+   font-family: Georgia;
+   border: 3px solid black;
+
+
+}
+
+header a{
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: 	#BA55D3;
+}
+
+h1 {
+  color:Indigo ;  
+  text-align: center;
+  font-size: 50px;
+  border-radius: 10px;
+  border: 4px solid purple;
+}
+
+footer{
+  background-color: MediumOrchid;
+}
+
+footer p{
+  background-color: Lavender;
+  border-radius: 10px;
+   border: 4px solid purple;
+   font-family: Bradley Hand, cursive;
+   padding: 5px;
+
+}
+
+nav a{
+  font-size: 20px;
+  text-decoration: none;
+  color: BlueViolet;
+  margin: 20px;
+  background-color: lavender;
+  border-radius: 10px;
+  border: 4px solid Orchid;
+  padding:10px ;
+ 
+}
+
+.p{
+  font-size: 20px;
+  text-decoration: none;
+  color: DarkSlateBlue;
+  background-color: Plum;
+  margin: 2px;
+  border-radius: 10px;
+  border: 4px solid purple;
+  padding: 10px;
+}
+
+nav{
+   margin-top: 25px;
+}
+
+.uwu{
+   background-color: MediumVioletRed;
+   border-radius: 10px;
+    border: 4px solid purple;
+     padding: 10px;
+     color: lavender;
+    
+}
+
+h2{
+  color: indigo;
+  font-family: Marker Felt, fantasy;
+}
+
+a{
+  color: Indigo;
+  text-decoration: none;
+  background-color: Thistle;
+  border-radius: 15px;
+   border: 4px solid Orchid;
+   padding: 5px;
+}
